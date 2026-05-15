@@ -7,3 +7,4 @@
 ## unit5: torques, equilibrium
 ## unit6: momentum, conservation
 ## unit7: work-energy, conservation
+## unit8: rotation in a nutshell. kinematics. dynamics
