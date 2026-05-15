@@ -4,3 +4,4 @@
 ## unit2: kinematics 2D
 ## unit3: forces, equilibrium
 ## unit4: Newton's laws
+## torques, equilibrium
