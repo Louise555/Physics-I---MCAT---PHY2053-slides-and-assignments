@@ -1,4 +1,6 @@
 # Physics-I---MCAT---PHY2053-slides-and-assignments
+## material for PHY2053 class - prep for MCAT - classes found here: 
+## https://www.youtube.com/watch?v=NeeTyTzP7Ew&list=PLYDSr0LB8IckhwPiyqt9B7thWobNzXslZ
 ## unit0 : Intro, Math review
 ## unit1: kinematics 1D
 ## unit2: kinematics 2D
